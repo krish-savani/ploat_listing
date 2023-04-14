@@ -765,7 +765,6 @@ Banner Style
 .main-banner ul.categories li a {
   color: #fff;
   text-align: center;
-  display: inline-block;
   font-size: 15px;
   margin-top: 15px;
 }
@@ -1390,6 +1389,7 @@ Category Post
 }
 
 .category-post .icon {
+  display: inline-block;
   width: 66px;
   height: 66px;
   border-radius: 50%;
@@ -1434,6 +1434,7 @@ Category Post
   background-color: #8d99af;
   height: 132px;
   line-height: 132px;
+  display: inline-block;
   float: left;
   text-align: left;
   cursor: pointer;
@@ -1544,6 +1545,7 @@ Category Post
 }
 
 .category-post .top-content .top-icon .icon {
+  display: inline-block;
   width: 66px;
   height: 66px;
   border-radius: 50%;
